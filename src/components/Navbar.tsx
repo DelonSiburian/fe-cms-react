@@ -8,9 +8,9 @@ import {
 import { useAuth } from "../utils/AuthProvider";
 import { useNavigate } from "react-router-dom";  
 
-function classNames(...classes: string[]) {
-  return classes.filter(Boolean).join(" ");
-}
+// function classNames(...classes: string[]) {
+//   return classes.filter(Boolean).join(" ");
+// }
 
 
 const Navbar = () => {  
