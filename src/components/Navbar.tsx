@@ -5,7 +5,6 @@ import {
   MenuItem,
   MenuItems
 } from "@headlessui/react";
-import { NavLink } from "react-router-dom";
 import { useAuth } from "../utils/AuthProvider";
 import { useNavigate } from "react-router-dom";  
 
